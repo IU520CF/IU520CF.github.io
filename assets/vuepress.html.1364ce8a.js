@@ -1,0 +1,1 @@
+const e={key:"v-3167b4b6",path:"/skill/vuepress.html",title:"vuepress",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u914D\u7F6E",slug:"\u914D\u7F6E",children:[]}],filePathRelative:"skill/vuepress.md"};export{e as data};
